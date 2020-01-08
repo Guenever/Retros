@@ -16,7 +16,7 @@ Les catégories sont :
 **Master (of puppets)** : Les actions
 
 
-![photo](pics/metallica.jpg)
+[photo](pics/metallica.jpg)
 
 
 ### Conclusion de la rétro

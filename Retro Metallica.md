@@ -14,9 +14,9 @@ Les catégories sont :
 **The thing that should not be** : Ce qu'il faut arrêter
 **Nothing else matters** : Le plus important, ce qui était bien
 **Master (of puppets)** : Les actions
+#
 
-
-[photo](pics/metallica.jpg)
+![photo](pics/metallica.jpg)
 
 
 ### Conclusion de la rétro

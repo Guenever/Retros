@@ -10,21 +10,19 @@ Je connais très bien le foot. J'ai donc pu me faire plaisir sur cette rétro, e
 
 ### Corps de la rétro
 Les catégories sont classiques mais illustrées par des fausses unes de l'équipe que j'ai créées :
--**Arrêter** 
+- **Arrêter** 
 ![Photo colonne arrêter](pics/RHatem/Arreter.PNG)
--**Commencer** 
--**Continuer** 
--**Moins de** 
-
-
-![Photo colonne arrêter](pics/RHatem/commencer.jpg)
-![Photo colonne arrêter](pics/RHatem/Continuer.PNG)
-![Photo colonne arrêter](pics/RHatem/moinsde.jpg)
+- **Commencer** 
+![Photo colonne commencer](pics/RHatem/commencer.jpg)
+- **Continuer** 
+![Photo colonne continuer](pics/RHatem/Continuer.PNG)
+- **Moins de** 
+![Photo colonne moins de](pics/RHatem/moinsde.jpg)
 
 ### Conclusion de la rétro
 Un petit quizz Kahoot sur Ben Arfa en fin de rétro, avec beaucoup de chambrage !
 
-*Photo*
+![Photo stade Rennais](pics/RHatem/sr.jpg)
 
 
 

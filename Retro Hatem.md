@@ -10,12 +10,16 @@ Je connais très bien le foot. J'ai donc pu me faire plaisir sur cette rétro, e
 
 ### Corps de la rétro
 Les catégories sont classiques mais illustrées par des fausses unes de l'équipe que j'ai créées :
+
 - **Arrêter** 
 ![Photo colonne arrêter](pics/RHatem/Arreter.PNG)
+
 - **Commencer** 
 ![Photo colonne commencer](pics/RHatem/commencer.jpg)
+
 - **Continuer** 
 ![Photo colonne continuer](pics/RHatem/Continuer.PNG)
+
 - **Moins de** 
 ![Photo colonne moins de](pics/RHatem/moinsde.jpg)
 

@@ -5,15 +5,21 @@
 ### Intro
 
 Je connais très bien le foot. J'ai donc pu me faire plaisir sur cette rétro, en jouant sur les rivalités entre équipes (moi Nantes, lui Rennes), et les "dossiers" du joueur. 
-*Photo*
+
+![Ben Arfa, Benzema, Nasri Clairefontaine](pics/RHatem/BenArfaBenzemaNasri.jpeg)
 
 ### Corps de la rétro
 Les catégories sont classiques mais illustrées par des fausses unes de l'équipe que j'ai créées :
-**Arrêter** 
-**Commencer** 
-**Continuer** 
-**Moins de** 
-*Images*
+-**Arrêter** 
+![Photo colonne arrêter](pics/RHatem/Arreter.PNG)
+-**Commencer** 
+-**Continuer** 
+-**Moins de** 
+
+
+![Photo colonne arrêter](pics/RHatem/commencer.jpg)
+![Photo colonne arrêter](pics/RHatem/Continuer.PNG)
+![Photo colonne arrêter](pics/RHatem/moinsde.jpg)
 
 ### Conclusion de la rétro
 Un petit quizz Kahoot sur Ben Arfa en fin de rétro, avec beaucoup de chambrage !

@@ -7,7 +7,7 @@
 En introduction, je passe en fond musical le titre "Welcome home (Sanitarium)".
 Le mood de l'équipe, une étape qui sert à ouvrir la discussion est fait sur un patchwork d'emojis metal. 
 
-![photo](pics/RMetallica/MetallicaBoard.jpg)
+![photo](pics/RMetallica/MetallicaMood.jpg)
 
 ### Corps de la rétro
 Les catégories sont :
@@ -17,7 +17,7 @@ Les catégories sont :
 - **Master (of puppets)** : Les actions
 ##
 
-![photo](pics/RMetallica/MetallicaMood.PNG)
+![photo](pics/RMetallica/MetallicaBoard.PNG)
 
 ### Conclusion de la rétro
 

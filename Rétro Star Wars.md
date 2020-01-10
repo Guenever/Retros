@@ -44,7 +44,7 @@ Les participants peuvent ainsi s'attribuer les actions en fonction de leur affin
 En jeu de fin, je demande aux participants de se mettre en cercle. Et je demande à tous : "En quoi X est-il un jedi pour l'équipe ?". Chacun peut répondre et on passe au suivant. Cela permet de terminer sur une note de feedbacks positifs.
 >Après la rétro, j'ai fait un poster avec chaque personnage choisi en intro, et le nom de la personne en légende, qu'ils ont pu garder en souvenir.
 
-![R2D2](pics/RSW/r2d2.jpg)
+![Moontage Star Wars](pics/RSW/montageSW.jpg)
 
 
 

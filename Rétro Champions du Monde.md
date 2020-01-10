@@ -30,8 +30,8 @@ Les catégories sont :
 
 
 - Ex : 
-   -- La meilleure boulette : Jean-Louis
-   -- Le meilleur emploi fictif : le serveur de préprod
+   - La meilleure boulette : Jean-Louis
+   - Le meilleur emploi fictif : le serveur de préprod
 
 ### Conclusion de la rétro
 

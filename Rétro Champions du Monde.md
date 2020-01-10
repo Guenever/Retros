@@ -29,12 +29,12 @@ Les catégories sont :
 ![Le meilleur](pics/RCM2018/mbappe.jpg)
 
 
-Ex : 
-La meilleure boulette : Jean-Louis
-Le meilleur emploi fictif : le serveur de préprod
+- Ex : 
+   -- La meilleure boulette : Jean-Louis
+   -- Le meilleur emploi fictif : le serveur de préprod
 
 ### Conclusion de la rétro
-0
+
 La partie "Le meilleur..." peut être gardée en fermeture de rétro.
 
 

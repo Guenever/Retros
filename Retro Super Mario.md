@@ -26,7 +26,7 @@ Les catégories sont :
 ![Boite mystère](pics/RMario/boite.jpg)
 
 Avec un beau visuel animé, et le tour est joué ! 
-![Board](pics/RMario/wallpaper.png)
+![Board](pics/RMario/wallpaper.jpg)
 
 ### Conclusion de la rétro
 Cette rétro étant un post-mortem projet, j'ai posé 2 questions : 
